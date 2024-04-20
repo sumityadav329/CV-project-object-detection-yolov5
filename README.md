@@ -1,6 +1,6 @@
-<!-- End-to-end-Object-Detection-Project -->
+# End-to-end-Object-Detection-Project
 
-<!-- How to run: -->
+##  How to run: 
 ```bash 
 conda create -p .venv python=3.7 -y
 ```
